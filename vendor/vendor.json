@@ -161,6 +161,24 @@
 			"revisionTime": "2019-08-17T14:29:43Z"
 		},
 		{
+			"checksumSHA1": "nhOTluaTVFoLhedKgpJcNMF+4fo=",
+			"path": "github.com/lib/pq",
+			"revision": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54",
+			"revisionTime": "2019-12-11T04:41:10Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54",
+			"revisionTime": "2019-12-11T04:41:10Z"
+		},
+		{
+			"checksumSHA1": "n0MMCrKKsQuuhv7vLsrtRUGJVA8=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "99274577be97ac9b1d95a2d61d566dc9b7cc6a54",
+			"revisionTime": "2019-12-11T04:41:10Z"
+		},
+		{
 			"checksumSHA1": "XCrIQIhBqX1Ierm/Uz9lLjizT8c=",
 			"path": "github.com/mattn/go-colorable",
 			"revision": "98ec13f34aabf44cc914c65a1cfb7b9bc815aef1",
