@@ -12,6 +12,6 @@ RUN go build
 #RUN cd static && npm install && npm run build
 #RUN apk del git npm
 
-EXPOSE 8008
+EXPOSE 8080
 
 CMD ["./dolarenbancos"]
